@@ -18,4 +18,4 @@ function nowServing(katzDeliLine) {
         return "The line is currently empty."
       }
     }
-  }
+  
