@@ -12,4 +12,6 @@ function nowServing(katzDeliLine) {
   }
   function currentLine(katzDeliLine) {
     for (let i = 0; i < katzDeliLine.length; i++) {
+      katzDeliLine.push()
+    }
   }
